@@ -19,6 +19,46 @@ export default function DataTable() {
             <td>25</td>
             <td>15.017,00</td>
           </tr>
+
+          <tr>
+            <td>06/09/2021</td>
+            <td>Jeferson Fernandes</td>
+            <td>34</td>
+            <td>25</td>
+            <td>15.017,00</td>
+          </tr>
+
+          <tr>
+            <td>06/09/2021</td>
+            <td>Jeferson Fernandes</td>
+            <td>34</td>
+            <td>25</td>
+            <td>15.017,00</td>
+          </tr>
+
+          <tr>
+            <td>06/09/2021</td>
+            <td>Jeferson Fernandes</td>
+            <td>34</td>
+            <td>25</td>
+            <td>15.017,00</td>
+          </tr>
+
+          <tr>
+            <td>06/09/2021</td>
+            <td>Jeferson Fernandes</td>
+            <td>34</td>
+            <td>25</td>
+            <td>15.017,00</td>
+          </tr>
+
+          <tr>
+            <td>06/09/2021</td>
+            <td>Jeferson Fernandes</td>
+            <td>34</td>
+            <td>25</td>
+            <td>15.017,00</td>
+          </tr>
         </tbody>
       </table>
     </div>

@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
 :root {
-  --color-primary: #FF8400;
+  --color-primary: #ff7353;
   --color-dark: #121214;
 }
 
 html, body {
   height: 100%;
   font-family: "Ubuntu", sans-serif;
+  background: #f9f9f9;
 }
 
 a {
@@ -29,6 +30,14 @@ a:hover {
 
 .content {
   flex: 1 0 auto;
+}
+
+.bg-light {
+  background: #FFF !important;
+}
+
+.shadow-sm {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px !important;
 }
 
 .footer {
