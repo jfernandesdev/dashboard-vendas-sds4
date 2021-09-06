@@ -2,11 +2,23 @@
 
 :root {
   --color-primary: #FF8400;
+  --color-dark: #121214;
 }
 
 html, body {
   height: 100%;
   font-family: "Ubuntu", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-primary);
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--color-primary)
 }
 
 #root { 
@@ -30,4 +42,8 @@ html, body {
 
 .text-primary {
   color: var(--color-primary) !important;
+}
+
+.bg-dark {
+  background: var(--color-dark) !important; 
 }
