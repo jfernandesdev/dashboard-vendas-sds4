@@ -6,7 +6,7 @@ Projeto Web desenvolvido durante a "Semana Spring React" com o DevSuperior by Ne
 
 - [x] Projeto com integração backend e frontend;
 - [x] Consulta paginada de vendas;
-- [x] Consulta agrupada em gráficos de barra e donut
+- [x] Consulta agrupada em gráficos de barra e donut;
 - [x] Responsividade mobile;
 - [x] Implantação na nuvem.
 
