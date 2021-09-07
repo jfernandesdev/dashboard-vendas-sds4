@@ -1,5 +1,5 @@
-# Dashboard de Vendas 📉
-Projeto Web desenvolvido durante a "Semana Spring React" com o DevSuperior by Nelio Alves. TEMA: Dashboard de vendas #SDS4. 📊📈
+# Dashboard de Vendas 📈
+Projeto Web desenvolvido durante a "Semana Spring React" com o DevSuperior by Nelio Alves. TEMA: Dashboard de vendas #SDS4. 📊
 
 
 ### Descrição:
