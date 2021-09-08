@@ -84,5 +84,4 @@ public class SaleDTO implements Serializable {
 	public void setSeller(SellerDTO seller) {
 		this.seller = seller;
 	}
-
 }
