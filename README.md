@@ -19,6 +19,7 @@ Projeto Web desenvolvido durante a "Semana Spring React" com o DevSuperior by Ne
 - ReactJs | 17.0.2
 - Typescript | ^4.1.2
 - NodeJs | 12.0.0
+- Java | 11.0.12-LTS
 
 ## Layout
 
