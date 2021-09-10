@@ -22,6 +22,10 @@ a:hover {
   color: var(--color-primary)
 }
 
+.btn:hover {
+  text-decoration:none;
+}
+
 #root { 
   display: flex;
   flex-direction: column;
