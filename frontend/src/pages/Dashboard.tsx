@@ -23,7 +23,7 @@ export default function Dashboard() {
         </div>
 
         <div className="py-3">
-          <h2 className="text-primary">Todas as vendas</h2>
+          <h2 className="text-primary mb-md-0 pb-md-0">Todas as vendas</h2>
         </div>
 
         <DataTable />
