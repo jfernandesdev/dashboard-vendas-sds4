@@ -17,6 +17,7 @@ Projeto Web desenvolvido durante a "Semana Spring React" com o DevSuperior by Ne
 - CSS | 3
 - Bootstrap | ^5.1.0
 - ReactJs | 17.0.2
+- Typescript | ^4.1.2
 - NodeJs | 12.0.0
 - Java | 11.0.12-LTS
 
@@ -24,11 +25,21 @@ Projeto Web desenvolvido durante a "Semana Spring React" com o DevSuperior by Ne
 
 ### Desktop screenshot:
 
-Em breve...
+Home                       | Gráficos de Barras e Donut | Página full do Dashboard
+:-------------------------:|:-------------------------: |:-------------------------:
+![](https://github.com/jfernandesdev/dashboard-vendas-sds4/blob/ec47c2b3987637fb32b07534eabf86dd956ea292/frontend/public/layout/home.png)  |  ![](https://github.com/jfernandesdev/dashboard-vendas-sds4/blob/ec47c2b3987637fb32b07534eabf86dd956ea292/frontend/public/layout/graficos.png) | ![img](https://github.com/jfernandesdev/dashboard-vendas-sds4/blob/ec47c2b3987637fb32b07534eabf86dd956ea292/frontend/public/layout/dashboard.png) 
 
 ### Mobile screenshot:
 
-Em breve...
+Home                       | Gráficos                   | Tabela com paginação
+:-------------------------:|:-------------------------: |:-------------------------:
+<img src="https://github.com/jfernandesdev/dashboard-vendas-sds4/blob/ec47c2b3987637fb32b07534eabf86dd956ea292/frontend/public/layout/mobile-home.png" width="50%">|<img src="https://github.com/jfernandesdev/dashboard-vendas-sds4/blob/ec47c2b3987637fb32b07534eabf86dd956ea292/frontend/public/layout/mobile-graficos.png" width="50%">|<img src="https://github.com/jfernandesdev/dashboard-vendas-sds4/blob/ec47c2b3987637fb32b07534eabf86dd956ea292/frontend/public/layout/mobile-table.png" width="50%">
+
+
+
+
+
+
 
 ### Dê uma olhada como o projeto ficou! 👀
 
